@@ -1,5 +1,5 @@
 {
-    "name": "Wait-Until-Blocks",
+    "name": "Bowling Game (actual)",
     "description": "",
     "dependencies": {
         "core": "*",
